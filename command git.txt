@@ -1,0 +1,7 @@
+git init
+
+git config --global user.name 'Alex Ivanov'
+
+git config --global user.email 'a.milnichuk@rambler.ru'
+
+git add *
